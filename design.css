@@ -1,0 +1,17 @@
+font-face{
+    font-family: 'Aju';
+    src: url('image/futura-bt/futura-book-italic-bt.ttf');
+}
+.navbar{
+    background-color: #009b4e;
+    width: ;
+}
+
+.list-group{
+    list-style: none;
+    margin-right: 35px;
+   
+}
+.image{
+    padding-left: 10px;
+}
